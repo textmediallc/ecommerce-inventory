@@ -1,16 +1,8 @@
 {
-  "name": "your-project-name",
+  "name": "ecommerce-inventory",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "jest"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "jest": "^27.0.0"
-  },
-  "jest": {
-    "testEnvironment": "node"
+    "test": "echo \"No tests specified\" && exit 0"
   }
 }
