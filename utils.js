@@ -12,4 +12,4 @@ function formatCurrency(amount, currencyCode) {
 function validateEmployeeId(id) {
   const regex = /^[A-Z]{2}-\d{5}$/;
   return regex.test(id);
-}fejifejifjfei
+}
