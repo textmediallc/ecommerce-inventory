@@ -1,0 +1,1 @@
+const process = (d) => d.filter(x => x.v > 0).map(x => ({...x, v: x.v * 1.2})).reduce((a, c) => a + c.v, 0);
